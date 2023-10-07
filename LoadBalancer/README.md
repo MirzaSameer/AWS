@@ -23,6 +23,15 @@
 ![image](https://github.com/MirzaSameer/AWS/assets/97332699/c5bee8d2-1570-44bb-8fd1-ca952db9d16d)
 ![image](https://github.com/MirzaSameer/AWS/assets/97332699/a7394b62-5cda-47af-b078-ed5be5d0f5fc)
 
-You need to select the target group here. One target group cannot be assigned to multiple load balancers at the same time.
+
+7. You need to select the target group here. One target group cannot be assigned to multiple load balancers at the same time.
+
 
 ![image](https://github.com/MirzaSameer/AWS/assets/97332699/8e826cfe-c0ad-4179-b6f7-af069cb1c1c5)
+
+Here is the output of the two servers I've created and load balancing is working.
+
+![image](https://github.com/MirzaSameer/AWS/assets/97332699/4e7fdf6f-dcc3-4425-95f7-11934f6cbb8a)
+
+![image](https://github.com/MirzaSameer/AWS/assets/97332699/9ff36a6f-8b85-49a1-bd90-07c9f46cce12)
+
